@@ -1,0 +1,27 @@
+{
+  "name": "nodebb-plugin-knuddels",
+  "version": "1.0.0",
+  "description": "Allows users to use their Knuddels profile picture on your forum",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyChannel-Apps/nodebb-plugin-knuddels"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "knuddels"
+  ],
+  "author": {
+    "name": "Adrian Preuß",
+    "email": "support@mychannel-apps.de"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyChannel-Apps/nodebb-plugin-knuddels/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  }
+}

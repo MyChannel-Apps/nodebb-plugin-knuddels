@@ -1,2 +1,3 @@
-# nodebb-plugin-knuddels
-Exposes Knuddels profile pictures to NodeBB users
+# Knuddels
+
+Allows users to use their Knuddels profile picture on your forum
